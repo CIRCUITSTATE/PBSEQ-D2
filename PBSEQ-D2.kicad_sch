@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "PBSEQ-D2")
-		(date "2024-05-12")
+		(date "2024-08-01")
 		(rev "0.1")
 		(company "CIRCUITSTATE Electronics LLP")
 		(comment 1 "www.circuitstate.com")
@@ -3938,6 +3938,48 @@
 			)
 		)
 	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 90.805 85.725 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "70378cc6-1bac-48d0-afe9-8070a417b0e8")
+		(property "Netclass" "GND"
+			(at 90.8685 81.915 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 71.12 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0e2d139-f20e-497e-bdbe-042740ca0d91")
+		(property "Netclass" "VCC"
+			(at 71.1835 48.26 0)
+			(effects
+				(font
+					(size 0.8 0.8)
+					(italic yes)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 92.075 160.02 0)
@@ -4306,7 +4348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "470K"
 			(at 65.405 66.294 90)
 			(effects
 				(font
@@ -4351,7 +4393,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "WR06X1003FTL"
+		(property "MPN" "WR06X4703FTL"
 			(at 65.405 64.77 0)
 			(effects
 				(font
@@ -5820,7 +5862,7 @@
 				)
 			)
 		)
-		(property "Value" "AO3401A"
+		(property "Value" "AO3415"
 			(at 82.55 47.752 90)
 			(effects
 				(font
@@ -5867,7 +5909,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AO3401A"
+		(property "MPN" "AO3415"
 			(at 82.55 54.61 0)
 			(effects
 				(font
