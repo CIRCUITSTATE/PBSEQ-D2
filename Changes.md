@@ -1,6 +1,12 @@
 
 
 #
+### **+05:30 10:37:45 PM 21-08-2024, Wednesday**
+
+  * Added net highlights on the PCB.
+  * Exported schematic file. There are no other changes to the schematic or PCB.
+
+#
 ### **+05:30 08:37:25 PM 01-08-2024, Thursday**
 
   * Updated values of `R1` and `R4`. The new values are found to be working with practical testing.
